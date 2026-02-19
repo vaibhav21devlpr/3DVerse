@@ -1,4 +1,4 @@
-# 🌐 3D Portfolio Website
+# 🌐 3DVerse — Interactive 3D Developer Portfolio
 
 A personal 3D interactive portfolio built with **React**, **Three.js**, **GSAP**, and **Tailwind CSS**.  
 Showcases my projects, skills, and experience in an engaging and immersive way.
